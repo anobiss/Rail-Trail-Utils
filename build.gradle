@@ -144,6 +144,11 @@ repositories {
         url = "https://jitpack.io"
     }
 
+    maven {
+        name = "ithundxr's Maven "
+        url = "https://maven.ithundxr.dev/"
+    }
+
 }
 
 dependencies {
@@ -174,6 +179,7 @@ dependencies {
     implementation fg.deobf("com.simibubi.create:create-${create_minecraft_version}:${create_version}:slim") { transitive = false }
     implementation fg.deobf("com.jozufozu.flywheel:flywheel-forge-${flywheel_minecraft_version}:${flywheel_version}")
     implementation fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
+
 
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
