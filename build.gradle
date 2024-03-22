@@ -140,8 +140,10 @@ repositories {
     }
 
     maven {
-        url "https://cursemaven.com"
+        name = "jitpack maven"
+        url = "https://jitpack.io"
     }
+
 }
 
 dependencies {
