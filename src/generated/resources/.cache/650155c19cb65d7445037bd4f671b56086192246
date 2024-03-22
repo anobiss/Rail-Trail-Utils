@@ -1,0 +1,9 @@
+// 1.20.1	2024-03-20T15:24:30.5426272	Block States: railtrail
+fa2b9a87c1dae75351992cd94a6d7f8df8dbd8ba assets/railtrail/blockstates/lootcrate.json
+575b92ada3ce44599ad2e6f799d44c0a097345a7 assets/railtrail/blockstates/market.json
+6d90b93f32cf0cc1cd59571f82c76d4f7c53305f assets/railtrail/blockstates/odometer.json
+255c20436679775ac0de5824e48bf81a6f5ed9ac assets/railtrail/models/block/lootcrate.json
+85f2e13e097eb7ca24de670fe614360062a331da assets/railtrail/models/block/odometer.json
+caf2c1408ab489d20cc7715b9ace2d6397a541f2 assets/railtrail/models/item/lootcrate.json
+b8d8b4669a8ebe3691a7e7e1b880d71834e84ef0 assets/railtrail/models/item/market.json
+a2a96b033a48f15b25ce7f42eecc1cdf7c273c36 assets/railtrail/models/item/odometer.json

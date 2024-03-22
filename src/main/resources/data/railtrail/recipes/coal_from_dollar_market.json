@@ -1,0 +1,12 @@
+{
+  "type": "railtrail:market",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "output": {
+    "count": 3,
+    "item": "minecraft:diamond"
+  }
+}

@@ -1,0 +1,4 @@
+// 1.20.1	2024-03-16T18:32:03.9567353	Tags for minecraft:block mod id railtrail
+b22fbef543229f3cd88538bb730856291cbacc7f data/minecraft/tags/blocks/mineable/axe.json
+35098140e98d4025d7577fc05a2c9a226bd9ca54 data/minecraft/tags/blocks/mineable/pickaxe.json
+35098140e98d4025d7577fc05a2c9a226bd9ca54 data/minecraft/tags/blocks/needs_iron_tool.json

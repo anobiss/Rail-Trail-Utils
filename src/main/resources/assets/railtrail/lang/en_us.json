@@ -1,0 +1,8 @@
+{
+  "item.railtrail.dollar": "Dollar",
+  "block.railtrail.odometer": "Odometer",
+  "block.railtrail.lootcrate": "Loot Crate",
+  "block.railtrail.market": "Market",
+  "tooltip.railtrail.dollar.tooltip": "Used to buy gear and supplies.",
+  "tooltip.railtrail.odometer.tooltip": "Used keep track of rail trail progress."
+}

@@ -1,0 +1,4 @@
+// 1.20.1	2024-03-20T15:24:30.5436279	Loot Tables
+64ffacf9ca5563e435dd5290c3a4fbbda525bcba data/railtrail/loot_tables/blocks/lootcrate.json
+ede7f50b0fa536ef52c3307ef0b81faff8262e2a data/railtrail/loot_tables/blocks/market.json
+de02d8d12ad2349b83d486aa07d4c1548e5a62c6 data/railtrail/loot_tables/blocks/odometer.json
